@@ -6,3 +6,8 @@
 -Dspring.profiles.active=Prod
 -Dspring.profiles.active=Dev
 ```
+
+## Properties or constants are injected using:
+```
+@Value
+```
